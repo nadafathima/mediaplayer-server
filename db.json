@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "username": "nada",
+      "email": "nada@gmail.com",
+      "password": "234567",
+      "id": 1
+    },
+    {
+      "username": "Nadaa",
+      "email": "nadaa@gmail.com",
+      "password": "etrehyjuk",
+      "id": 2
+    }
+  ],
+  "videos": [
+    {
+      "videoId": "1",
+      "title": "Heeriye",
+      "imageUrl": "https://i.ytimg.com/vi/RLzC55ai0eo/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/RLzC55ai0eo?si=PC4667wLg_6XcEy&autoplay=1",
+      "id": 1
+    },
+    {
+      "videoId": "2",
+      "title": "chaleya",
+      "imageUrl": "https://i.ytimg.com/vi/VAdGW7QDJiU/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCVcwy3v3dRtADnYrxaKoWijRgenQ",
+      "videoUrl": "https://www.youtube.com/embed/VAdGW7QDJiU?si=PC4667wLg_6XcEy&autoplay=1",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "categoryId": "1",
+      "title": "music",
+      "videos": [
+        {
+          "videoId": "1",
+          "title": "Heeriye",
+          "imageUrl": "https://i.ytimg.com/vi/RLzC55ai0eo/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/RLzC55ai0eo?si=PC4667wLg_6XcEy&autoplay=1",
+          "id": 1
+        },
+        {
+          "videoId": "2",
+          "title": "chaleya",
+          "imageUrl": "https://i.ytimg.com/vi/VAdGW7QDJiU/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCVcwy3v3dRtADnYrxaKoWijRgenQ",
+          "videoUrl": "https://www.youtube.com/embed/VAdGW7QDJiU?si=PC4667wLg_6XcEy&autoplay=1",
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryId": "2",
+      "title": "other",
+      "videos": [],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "videoId": "1",
+      "title": "Heeriye",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo?si=PC4667wLg_6XcEy&autoplay=1",
+      "datetime": "2024-08-31T06:23:49.245Z",
+      "id": 1
+    },
+    {
+      "videoId": "2",
+      "title": "chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU?si=PC4667wLg_6XcEy&autoplay=1",
+      "datetime": "2024-09-04T07:43:50.672Z",
+      "id": 2
+    }
+  ]
+}
